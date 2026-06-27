@@ -1,91 +1,51 @@
-# Hi, I'm Ullas 👋
+# Hi there, I'm Ullas 👋
 
-Data analyst in the making — I enjoy turning messy datasets into clear, actionable insights using Python, SQL, and data visualization tools.
-
----
-
-## 🧭 About Me
-
-- 🔍 Focused on data cleaning, exploratory analysis, and communicating findings clearly
-- 🛠️ Building a portfolio of real-world data projects using publicly available datasets
-- 📚 Continuously sharpening my SQL and Python skills through hands-on practice
-- 💼 Open to data analyst and junior data engineer opportunities
+Welcome to my GitHub! I'm a data enthusiast passionate about turning raw, messy data into clear, actionable insights. I enjoy working across the full data workflow — from cleaning and querying to visualizing and storytelling with data.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧰 Tech Stack & Skills
 
-```
-Languages    │ Python · SQL
-Libraries    │ Pandas · Matplotlib
-Tools        │ Jupyter Notebook · Git · GitHub
-Techniques   │ Data Cleaning · Aggregations · Window Functions · CTEs · Joins · EDA
-```
-
----
-
-## 📁 Project Dashboard
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🦠 covid-19-data-cleaning-insights
-![Language](https://img.shields.io/badge/Language-Python-blue) ![Status](https://img.shields.io/badge/Status-Public-brightgreen)
+## 📂 Featured Projects
 
-```
-Tech Stack: Python · Pandas · Matplotlib
-```
+### 🦠 [covid-19-data-cleaning-insights](https://github.com/Ullas83/covid-19-data-cleaning-insights)
+A Python and Pandas data pipeline that cleans a messy COVID-19 dataset, computes key trend metrics, and visualizes insights using matplotlib — a full end-to-end data analysis workflow.
 
-> A data pipeline that takes a raw, messy COVID-19 dataset, applies structured cleaning steps, computes key trend metrics, and produces visualizations to surface meaningful patterns in the data.
+### 🛒 [retail-sales-sql-analysis](https://github.com/Ullas83/retail-sales-sql-analysis)
+A collection of 15+ SQL queries of increasing complexity analyzing a retail sales dataset, covering joins, aggregations, window functions, and CTEs — built to demonstrate real-world SQL problem-solving skills.
 
-📂 [View Repository →](https://github.com/Ullas83/covid-19-data-cleaning-insights)
+### 📊 [Data-Analysis-Projects](https://github.com/Ullas83/Data-Analysis-Projects)
+A growing collection of data analysis work explored through Jupyter Notebooks, showcasing hands-on practice with real datasets.
 
----
-
-### 🛒 retail-sales-sql-analysis
-![Language](https://img.shields.io/badge/Language-SQL-orange) ![Status](https://img.shields.io/badge/Status-Public-brightgreen)
-
-```
-Tech Stack: SQL
-```
-
-> A curated collection of 15+ SQL queries of progressively increasing complexity, analyzing a retail sales dataset. Covers joins, aggregations, window functions, and CTEs — written to demonstrate real analytical thinking.
-
-📂 [View Repository →](https://github.com/Ullas83/retail-sales-sql-analysis)
+### 🗄️ [SQL-Projects](https://github.com/Ullas83/SQL-Projects)
+A repository dedicated to SQL practice and project work, reflecting an ongoing commitment to strengthening querying and data manipulation skills.
 
 ---
 
-### 📊 Data-Analysis-Projects
-![Language](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange) ![Status](https://img.shields.io/badge/Status-Public-brightgreen)
+## 🌱 Currently Working On
 
-```
-Tech Stack: Jupyter Notebook · Python
-```
-
-> A growing collection of data analysis projects worked through in Jupyter Notebooks, exploring various datasets and analytical approaches.
-
-📂 [View Repository →](https://github.com/Ullas83/Data-Analysis-Projects)
+- Deepening my SQL skills with more advanced analytical queries
+- Expanding my Python data analysis portfolio with new datasets and visualizations
+- Building projects that tell clear data stories from start to finish
 
 ---
 
-### 🗄️ SQL-Projects
-![Language](https://img.shields.io/badge/Language-SQL-orange) ![Status](https://img.shields.io/badge/Status-Public-brightgreen)
+## 🤝 Let's Connect
 
-```
-Tech Stack: SQL
-```
+I'm actively looking for opportunities in data analytics and data engineering. If you're working on something interesting or have a role that might be a good fit, I'd love to hear from you!
 
-> A repository of SQL-based projects demonstrating query writing and data exploration across different problem domains.
-
-📂 [View Repository →](https://github.com/Ullas83/SQL-Projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullas83)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ullas83)
 
 ---
 
-## 📬 Let's Connect
-
-If you're looking for someone detail-oriented who enjoys working with data, feel free to reach out!
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ullas83-181717?logo=github)](https://github.com/Ullas83)
-
----
-
-*This README is always a work in progress — just like my skills.* 🚀
+*Thanks for stopping by — feel free to explore my repos and star anything you find useful!* ⭐
